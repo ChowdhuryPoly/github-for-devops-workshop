@@ -1,0 +1,17 @@
+git init
+git status
+git remote set-url origin https://<token will be here>@github.com/
+git rm --cache
+git add <file-name> or .
+git commit -m "added new file"
+
+git remote -v
+git remote set-url origin https://<token will be here>@github.com/
+git remote set-url origin https://<token will be here>@github.com/ChowdhuryPoly/<repository-name>.git
+git push origin master
+git clone
+git push origin master
+git status
+
+this is some new change
+this is some new change
