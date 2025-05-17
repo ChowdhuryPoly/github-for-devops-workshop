@@ -1,9 +1,8 @@
-def hello():
-   """
-   This is demo
-   """
+"""
+This module is for testing indentation and Pylint compliance.
+"""
 
-
-   return "Hello Hello Hello"
-
-hello()
+def test_function():
+    """This function prints a test message."""
+    message = "Testing complete."
+    print(message)
