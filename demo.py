@@ -1,9 +1,9 @@
-def my_function():
+"""
+This module demonstrates a simple example function.
+"""
 
-    a = 5
-    
-    return a
-
-my_function()
+def greet(name):
+    """Return a greeting message for the given name."""
+    return f"Hello, {name}!"
 
     
